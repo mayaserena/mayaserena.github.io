@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.25ef1143.chunk.css",
+    "main.js": "/static/js/main.cc0b6e5e.chunk.js",
+    "main.js.map": "/static/js/main.cc0b6e5e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3374ac37.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3374ac37.js.map",
+    "static/css/2.67f619b1.chunk.css": "/static/css/2.67f619b1.chunk.css",
+    "static/js/2.b3ff7812.chunk.js": "/static/js/2.b3ff7812.chunk.js",
+    "static/js/2.b3ff7812.chunk.js.map": "/static/js/2.b3ff7812.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.0e2d16a74b970f3768b509664ed287b3.js": "/precache-manifest.0e2d16a74b970f3768b509664ed287b3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.67f619b1.chunk.css.map": "/static/css/2.67f619b1.chunk.css.map",
+    "static/css/main.25ef1143.chunk.css.map": "/static/css/main.25ef1143.chunk.css.map",
+    "static/js/2.b3ff7812.chunk.js.LICENSE.txt": "/static/js/2.b3ff7812.chunk.js.LICENSE.txt",
+    "static/media/LSP.png": "/static/media/LSP.237afd52.png",
+    "static/media/Princess_Bubblegum.png": "/static/media/Princess_Bubblegum.d0cf644b.png",
+    "static/media/Zelda.png": "/static/media/Zelda.117b4297.png",
+    "static/media/avatar2.png": "/static/media/avatar2.3409ec6b.png",
+    "static/media/colourshift.png": "/static/media/colourshift.c0168f11.png",
+    "static/media/gameidentifier.png": "/static/media/gameidentifier.0c0fb19d.png",
+    "static/media/maze.png": "/static/media/maze.ec9890cf.png",
+    "static/media/resume.pdf": "/static/media/resume.c9e5510f.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3374ac37.js",
+    "static/css/2.67f619b1.chunk.css",
+    "static/js/2.b3ff7812.chunk.js",
+    "static/css/main.25ef1143.chunk.css",
+    "static/js/main.cc0b6e5e.chunk.js"
+  ]
+}
